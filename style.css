@@ -424,7 +424,7 @@ img {
     width: 50px;
     height: 50px;
     color: white;
-    background-color: #cc9a00;
+    background-color:#dc2b2b;
     border-radius: 50%;
     z-index: 2;
     top: 23px;
@@ -438,7 +438,7 @@ img {
     position: absolute;
     width: 80px;
     height: 80px;
-    background-color: #cc9a00;
+    background-color: #dc2b2b;
     left: 8px;
     top: 8px;
     border-radius: 50%;
@@ -452,7 +452,7 @@ img {
     height: 100px;
     top: -2px;
     left: -2px;
-    border: 2px solid #cc9a00;
+    border: 2px solid #dc2b2b;
     opacity: 0.8;
     border-radius: 50%;
     animation: scaleW 1s ease infinite;
